@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jimp": "^0.14.0",
+    "qrcode-reader": "^1.0.4"
+  }
+}
