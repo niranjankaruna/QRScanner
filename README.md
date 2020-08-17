@@ -5,7 +5,7 @@ NodeJS Application build for Lambda function with runtime NodeJS 12.x
 
 Jimp and qrcode-scanner library are used for functionalities
 
-Lambda function is configured with index.handler and main fucntion should be in index.js
+Lambda function is configured with index.handler and main function should be in index.js
 
 
 Sample Request:
