@@ -1,7 +1,7 @@
 # QRScanner
-QRScanner Lambda function
+QRScanner AWS Lambda function
 
-NodeJS Application build for Lambda function with runtime NodeJS 12.x
+NodeJS Application build for AWS Lambda function with runtime NodeJS 12.x
 
 Jimp and qrcode-scanner library are used for functionalities
 
